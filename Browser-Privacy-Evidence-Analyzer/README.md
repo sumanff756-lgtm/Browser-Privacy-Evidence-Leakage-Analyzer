@@ -24,4 +24,6 @@ and residual digital evidence left behind by users.
 2. View extracted forensic artifacts
 
 ## Author
-Barath Barath
+Dhivya Dharshni
+
+
